@@ -45,7 +45,7 @@ event:
    # committees
   call_for_committee_open: "14.01.2025"
   call_for_committee_close: "31.01.2025"
-  apply_url_committees: "/to-be-announced/"
+  apply_url_committees: "https://forms.gle/SeSrnv1UKbxDNu9e9"
   # volunteers
   call_for_volunteers_open: "to-be-announced"
   call_for_volunteers_close: "to-be-announced"
