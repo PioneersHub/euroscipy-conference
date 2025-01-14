@@ -31,11 +31,6 @@ Welcome to the Organizer Help & Resources page for {{config.extra.event.event_na
 - [Program Committee](committees/program.md)
 - [Diversity Committee](committees/diversity.md)
 - [Communication Committee](committees/communication.md)
-- [Infrastructure Committee](committees/infrastructure.md)
-- [On-Site Operations Committee](committees/on-site-ops.md)
-- [Experience Committee](committees/experience.md)
-- [Video Committee](committees/video.md)
-- [Swag Committee](committees/swag.md)
 
 ## Key Processes and Guidelines
 
@@ -44,11 +39,9 @@ Welcome to the Organizer Help & Resources page for {{config.extra.event.event_na
 - [Community Voting Process](guidelines/community-voting.md)
 - [Grant Application Management](guidelines/grant-applications.md)
 - [Volunteer Recruitment and Management](guidelines/volunteers.md)
-- [Video Recording and Streaming Guidelines](guidelines/video.md)
 
 ## Tools and Infrastructure
 
-- [Infrastructure Setup Guide](guidelines/infrastructure.md)
 - [User Account Management](office/user-accounts.md)
 
 ## Financial and Legal Resources
@@ -86,9 +79,8 @@ We're committed to improving our processes. If you have suggestions or feedback:
 
 ## Contact Information
 
-- Steering Committee: [steering@conference.com](mailto:steering@conference.com)
-- Infrastructure Support: [infrastructure@conference.com](mailto:infrastructure@conference.com)
-- Code of Conduct Committee: [coc@conference.com](mailto:coc@conference.com)
+- Infrastructure Support: [infrastructure@pioneershub.org](mailto:infrastructure@pioneershub.org)
+- Code of Conduct Committee: [coc@euroscipy.org](mailto:coc@euroscipy.org)
 
 Remember, effective communication is key to a successful event. Don't hesitate to reach out if you need help or clarification on any aspect of the conference organization.
 

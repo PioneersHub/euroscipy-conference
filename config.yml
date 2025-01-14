@@ -1,7 +1,7 @@
 ---
 # Site settings
-site_name: Conference
-site_url: https://pioneershub.github.io/conference/
+site_name: EuroSciPy Conference
+site_url: https://pioneershub.github.io/euroscipy-conference/
 site_author: [
   "Alexander Hendorf",
 ]
@@ -19,51 +19,51 @@ copyright:
 
 # Event details
 event:
-  event_name: "THE EVENT"
-  start_date: "23.04.2025"
-  end_date: "25.04.2025"
-  day_before: "22.04.2025"
-  month: "April"
+  event_name: "EuoSciPy 2025"
+  start_date: "August 2025 TBA"
+  end_date: "five days later"
+  day_before: "August 2025 TBA"
+  month: "August"
   year: "2025"
-  location: "Somewhere, Germany"
+  location: "Somewhere, Poland"
   # The URL for the Call for Committee application form
-  contact_email: "info@contact.org"
+  contact_email: "info@euroscipy.org"
   # program
-  cfp_open: "01.01.2025"
-  cfp_close: "01.02.2025"
-  review_deadline: "15.02.2025"
-  cfp_speakers_notifications: "01.03.2025"
+  cfp_open: "03.03.2025"
+  cfp_close: "28.04.2025"
+  review_deadline: "10.06.2025"
+  cfp_speakers_notifications: "10.06.2025"
   cfp_link: "/to-be-announced/"
   voting_url: "/to-be-announced/"
-  voting_start: "02.02.2025 12:00 CET"
-  voting_end: "15.25.2025 23:59 CET"
+  voting_start: "to-be-announced"
+  voting_end: "to-be-announced"
   contact_program: "/to-be-announced/"
   # diversity
-  financial_aid_open: "01.01.2025"
-  financial_aid_close: "01.02.2025"
-  financial_aid_notifications: "01.03.2025"
+  financial_aid_open: "03.03.2025"
+  financial_aid_close: "28.04.2025"
+  financial_aid_notifications: "15.05.2025"
    # committees
-  call_for_committee_open: "01.10.2024"
-  call_for_committee_close: "01.11.2024"
+  call_for_committee_open: "14.01.2025"
+  call_for_committee_close: "31.01.2025"
   apply_url_committees: "/to-be-announced/"
   # volunteers
-  call_for_volunteers_open: "01.01.2025"
-  call_for_volunteers_close: "01.02.2025"
+  call_for_volunteers_open: "to-be-announced"
+  call_for_volunteers_close: "to-be-announced"
   apply_url_volunteers: "/to-be-announced/"
   # tickets
   ticket_sales_open: "01.01.2025"
   ticket_sales_late_bird: "01.03.2025"
 
   # Code of Conduct Team
-  coc_email: coc-reports@our-community.org
+  coc_email: coc-reports@euroscoipy.org
   team_members: |
-    - Avery Sinclair
-    - Morgan Ellis
-    - Rowan Bennett
-    - Taylor Monroe
+    - to-be-announced
+    - to-be-announced
+    - to-be-announced
+    - to-be-announced
   backup_team_members: |
-    - Jordan Reese email@domain.com
-    - Casey Whitman email@domain.com
+    - to-be-announced email@domain.com
+    - to-be-announced email@domain.com
 
 committees:
   # Committee names must match the headers in the committees.md file
@@ -72,24 +72,24 @@ committees:
     requirements:
       attend_conference: true
     workload:
-      average: "1-2 hours per week"
-      start: "start-date-here"
+      average: "1 hour per week"
+      start: "03.03.2025"
       peak: "During the conference"
       end: "Until all reports have been resolved"
   "communication":
     attend_conference: true
     workload:
       average: "1-2 hours per week"
-      start: "start-date-here"
-      peak: "peak-dates-here"
-      end: "end-date-here"
+      start: "15.02.2025"
+      peak: "March/April and August 2025"
+      end: "four weeks after conference"
   "diversity":
     attend_conference: true
     workload:
       average: "1-2 hours per week"
-      start: "start-date-here"
-      peak: "peak-dates-here"
-      end: "end-date-here"
+      start: "15.02.2025"
+      peak: "May 2025"
+      end: "two weeks after conference"
   "experience":
     attend_conference: true
     workload:
@@ -115,8 +115,8 @@ committees:
     attend_conference: false
     workload:
       average: "1-2 hours per week"
-      start: "Six months before conference, 1-2 hours a week"
-      peak: "Four months before the conference 4-5 hours per week for 4 weeks."
+      start: "15.05.2025, 1-2 hours a week"
+      peak: "May 4-5 hours per week for 3 weeks."
       end: "End of the conference"
   "steering":
     attend_conference: true
@@ -140,7 +140,7 @@ committees:
       peak: "During the conference"
       end: "Until all videos have been released"
 
-# custom config for social cards customisation
+# custom config for social cards customization
 social_cards:
   dirs:
     # relative paths from the repository root

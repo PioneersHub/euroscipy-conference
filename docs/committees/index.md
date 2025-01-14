@@ -16,12 +16,8 @@ The Committees
 - :fontawesome-solid-shield: [Code of Conduct](code-of-conduct.md)
 - :fontawesome-solid-paper-plane: [Communication](communication.md)
 - :fontawesome-solid-universal-access: [Diversity](diversity.md)
-- :fontawesome-solid-face-smile: [Experience](experience.md)
-- :fontawesome-solid-people-group: [On-Site Operations](on-site-ops.md)
-- :fontawesome-solid-chalkboard: [Program](program.md)
-- :fontawesome-solid-compass: [Steering](steering.md)
-- :fontawesome-solid-shirt: [Swag](#swag.md)
-- :fontawesome-solid-video:  [Video](video.md)
+- :fontawesome-solid-face-smile: [Tutorials](program.md)
+- :fontawesome-solid-chalkboard: [Program (Tutorials and Talks & Posters)](program.md)
 
 ---
 

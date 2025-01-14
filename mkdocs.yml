@@ -1,16 +1,16 @@
 ---
-site_name: Conference
-site_url: https://pioneershub.github.io/conference/
+site_name: EuroSciPy Conference
+site_url: https://pioneershub.github.io/euroscipy-conference/
 site_author: Alexander Hendorf
 site_description: >-
-  Template for organizing a volunteer-driven conference.
+  Documentation for for organizing EuroSciPy as a volunteer-driven conference.
 # Repository
-repo_name: PioneersHub/conference
-repo_url: https://github.com/PioneersHub/conference
+repo_name: PioneersHub/euroscipy-conference
+repo_url: https://github.com/PioneersHub/euroscipy-conference
 
 #
 nav:
-  - About: index.md
+#  - About: index.md
   - Mission: mission.md
   - Preparation: preparation.md
   - Timeline: timeline.md
@@ -19,45 +19,40 @@ nav:
       - Code of Conduct: committees/code-of-conduct.md
       - Communication: committees/communication.md
       - Diversity: committees/diversity.md
-      - Experience: committees/experience.md
-      - Infrastructure: committees/infrastructure.md
       - On-Site Operations: committees/on-site-ops.md
       - Program: committees/program.md
-      - Steering: committees/steering.md
-      - Swag: committees/swag.md
-      - Video: committees/video.md
       - Operational Models: committees/operational-model.md
-  - Guidelines:
-      - guidelines/index.md
-      - Program:
-          - Call for Proposals (CfP): guidelines/call-for-proposals.md
-          - Pretalx for CfP: guidelines/pretalx.md
-          - Submissions: guidelines/submissions.md
-          - Reviewer Guidelines: guidelines/reviewers.md
-          - Community Voting: guidelines/community-voting.md
-      - Diversity:
-          - Grant-Applications: guidelines/grant-applications.md
-          - Grants-Guidelines: guidelines/grants.md
-      - Infrastructure:
-          - Infrastructure: guidelines/infrastructure.md
-      - On-Site Operations:
-          - On-Site Operations: guidelines/on-site-ops.md
-      - Sponsoring:
-          - Sponsoring: guidelines/sponsoring.md
-      - Volunteers:
-          - Volunteers: guidelines/volunteers.md
-          - Call for Volunteers: guidelines/volunteers-call.md
-      - Video:
-          - Video-Guidelines: guidelines/video.md
+#  - Guidelines:
+#      - guidelines/index.md
+#      - Program:
+#          - Call for Proposals (CfP): guidelines/call-for-proposals.md
+#          - Pretalx for CfP: guidelines/pretalx.md
+#          - Submissions: guidelines/submissions.md
+#          - Reviewer Guidelines: guidelines/reviewers.md
+#          - Community Voting: guidelines/community-voting.md
+#      - Diversity:
+#          - Grant-Applications: guidelines/grant-applications.md
+#          - Grants-Guidelines: guidelines/grants.md
+#      - Infrastructure:
+#          - Infrastructure: guidelines/infrastructure.md
+#      - On-Site Operations:
+#          - On-Site Operations: guidelines/on-site-ops.md
+#      - Sponsoring:
+#          - Sponsoring: guidelines/sponsoring.md
+#      - Volunteers:
+#          - Volunteers: guidelines/volunteers.md
+#          - Call for Volunteers: guidelines/volunteers-call.md
+#      - Video:
+#          - Video-Guidelines: guidelines/video.md
   - Office:
-      - office/index.md
-      - Communication: office/communication.md
+#      - office/index.md
+#      - Communication: office/communication.md
       - Finance & Budget: office/finance-budget.md
       - Legal & Taxes: office/legal-taxes.md
       - User Account Management: office/user-accounts.md
-      - Sponsoring: office/sponsoring.md
+#      - Sponsoring: office/sponsoring.md
       - Strategy: office/strategy.md
-      - Supplies: office/supplies.md
+#      - Supplies: office/supplies.md
       - Ticketing: office/ticketing.md
   - Code of Conduct:
       - Code of Conduct: code-of-conduct/index.md
@@ -85,7 +80,7 @@ theme:
     - navigation.sections
     - navigation.tabs
     - navigation.path
-  site_url: https://pioneershub.github.io/pytube/
+  site_url: https://pioneershub.github.io/euroscipy-conference/
 
 markdown_extensions:
   - attr_list
@@ -148,5 +143,5 @@ hooks:
 
 # Copyright
 copyright: >
-  Copyright &copy; 2024 Pioneers Hub gGmbH –
+  Copyright &copy; 2024 EuroSciPy organization / Pioneers Hub gGmbH –
   <a href="#__consent">Change cookie settings</a>

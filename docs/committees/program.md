@@ -3,7 +3,8 @@ title: Program Committee
 icon: fontawesome/solid/chalkboard
 ---
 
-# Program Committee
+# Program Committees: Talks + Posters & Tutorials
+
 
 ## Mission
 

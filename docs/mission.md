@@ -5,7 +5,11 @@ hide:
   - navigation
 ---
 
-# 🚀 Join Our Community-Driven Conference!
+# 🚀 Join EuroSciPy - A Research Open-Source Community-Driven Conference!
+
+EuroSciPy is a community-driven conference dedicated to promoting and advancing the use of Python in scientific research
+and industry across Europe. Our mission is to foster collaboration, share knowledge, and build a welcoming, inclusive
+community for all participants.
 
 ## What's a Community-Driven Conference?
 
@@ -15,36 +19,36 @@ sharing knowledge and building connections.
 
 ## Our Mission: What We're All About
 
-### 1. We Share Awesome Content
+### 1. Share Cutting-Edge Content
 
-We bring you talks, workshops, and presentations from brilliant minds in our field. But it's not just about listening –
-it's about connecting, learning, and growing together.
+We provide talks, workshops, and presentations from leading experts in scientific Python, facilitating the exchange of
+innovative ideas and best practices.
 
-### 2. We're Here for You
+### 2. Support the Community
 
-Whether you're a coding newbie or a tech veteran, we've got your back. Our goal is to create an event where everyone
-feels welcome and supported.
+Our goal is to create an event where everyone, from beginners to seasoned professionals, feels welcome and supported,
+encouraging growth and learning at all levels.
 
-### 3. We Create a Welcoming Space
+### 3. Create an Inclusive Environment
 
-Diversity isn't just a buzzword for us – it's our strength. We're committed to making our conference a safe, inclusive
-space where everyone can thrive.
+We are committed to diversity and strive to make EuroSciPy a safe, inclusive space where individuals from all
+backgrounds can thrive.
 
-### 4. We Aim for Excellence
+### 4. Pursue Excellence
 
-We hold ourselves to high standards in everything we do, from organizing the event to ensuring respectful behavior from
-all participants.
+We maintain high standards in organizing the conference, ensuring a professional and respectful atmosphere for all
+participants.
 
-## Who We're Looking For
+## Get Involved
 
 We need enthusiastic volunteers like you! You don't need to be an expert – just bring your:
 
-- Excitement about creating an awesome experience for everyone
-- Willingness to lend a hand wherever it's needed
-- Passion for including people from all walks of life
-- Team spirit and openness to new ideas and people
-- Eagerness to learn and grow while helping others do the same
+We welcome enthusiastic volunteers who are passionate about scientific Python and eager to contribute to the success of
+EuroSciPy. Whether you’re interested in organizing, presenting, or assisting during the event, your involvement is
+invaluable.
 
+Join us in our mission to advance scientific Python and strengthen the community by participating in EuroSciPy.
+Together, we can create an enriching experience for all attendees.
 Check out the volunteer committees you can join:
 
 [Check out the Committees](committees/index.md){:target="_blank" .md-button .md-button--secondary }
@@ -71,7 +75,6 @@ Got questions? We've got answers! Reach out to us at {{config.extra.event.contac
 Make sure to familiarize yourself with the volunteer committees before you apply:
 
 [Check out the Committees](committees/index.md){:target="_blank" .md-button .md-button--secondary }
-
 
 [Apply to Volunteer Here]({{config.extra.event.apply_url_committees}}){:target="_blank" .md-button .md-button--primary }
 

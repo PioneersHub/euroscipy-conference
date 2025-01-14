@@ -1,34 +1,12 @@
 [![Deploy Docs](https://github.com/PioneersHub/conference/actions/workflows/ci.yml/badge.svg)](https://github.com/PioneersHub/conference/actions/workflows/ci.yml)
 
-# Conference TEMPLATE
+# EuroSciPy Documentation
 
-Playbook how to run a volunteer-driven conference
-
-## How To Use
-
-Fork this repository and adapt the content to your needs.
-
-👉 See the [full documentation](https://pioneershub.github.io/conference/)
-
-## How to Use
-
-On the [GitHub page of this repository](https://github.com/PioneersHub/conference),
-click on the "Use this template" button at the upper right side.
-
-Select where you want to create the repository and give it a custom name.
-Best practice is to use an **all-lowercase** name with **hyphens** instead of spaces.
-Anything else will be tricky as GitHub pages in some parts is case-sensitive.
-
-Let's use "conference-3000" as an example.
-
-Once the repository is created, you can clone it to your local machine and start editing the content.
-
-### Setting Up Your Conference
-
+Playbook how we run EuroSciPy as a volunteer-driven conference
 
 ## Attribution
 
-This document draws on years of experience from organizing of running and co-organizing events since like
+This repos draws on years of experience from organizing of running and co-organizing events since like
 [PyCon DE](https://de.pycon.org/), [EuroPython](https://europython.eu), [EuroSciPy](https://euroscipy.org)
 and [PyData Berlin](https://berlin.pydata.org).
 
