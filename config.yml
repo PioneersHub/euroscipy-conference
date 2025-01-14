@@ -9,8 +9,8 @@ site_description: >-
   Template for organizing a volunteer-driven conference.
 
 # Repository at GitHub
-repo_name: PioneersHub/conference
-repo_url: https://github.com/PioneersHub/conference
+repo_name: PioneersHub/euroscipy-conference
+repo_url: https://github.com/PioneersHub/euroscipy-conference
 
 # Copyright for footer
 copyright:
