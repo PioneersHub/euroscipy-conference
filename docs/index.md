@@ -1,109 +1,81 @@
 ---
-title: Your Guide for Amazing Community Confs
+title: Join Our Community-Driven Conference Mission
+icon: fontawesome/solid/shield-halved
 hide:
   - navigation
 ---
 
-# :fontawesome-solid-book-atlas: Your Guide to Organizing an Amazing Community Conference
+# 🚀 Join EuroSciPy - A Research Open-Source Community-Driven Conference!
 
-## What's This All About?
+EuroSciPy is a community-driven conference dedicated to promoting and advancing the use of Python in scientific research
+and industry across Europe. Our mission is to foster collaboration, share knowledge, and build a welcoming, inclusive
+community for all participants.
 
-Welcome to the world of community-driven conferences! If you're new here, don't worry – this guide is for you. We've
-created this playbook to help anyone, regardless of experience, understand how to organize a conference that's powered
-by volunteers and fueled by passion.
+## What's a Community-Driven Conference?
 
-## Why a Playbook?
+Imagine a conference where everyone, from attendees to speakers to organizers, comes together to create something
+amazing. That's us! We're not a big corporation – we're a group of passionate volunteers who believe in the power of
+sharing knowledge and building connections.
 
-Organizing a conference might sound intimidating, but it doesn't have to be! This playbook breaks down the process into
-manageable steps. It's based on years of experience from events like PyCon DE, EuroPython, EuroSciPy, and PyData Berlin.
-We're sharing our knowledge so you can create an amazing event without reinventing the wheel.
+## Our Mission: What We're All About
 
-## What's Inside?
+### 1. Share Cutting-Edge Content
 
-1. **Getting Started**: Everything you need to kick off your conference planning
-2. **Our Mission**: Understanding the heart of a community-driven conference
-3. **Building Your Team**: How to gather and organize your volunteer squad
-4. **Calling All Helpers**: Tips for attracting and engaging volunteers
-5. **Ground Rules**: Creating a positive environment for everyone
-6. **Behind the Scenes**: Setting up the operational backbone of your conference
-7. **Words of Wisdom**: Key principles for smooth organizing
+We provide talks, workshops, and presentations from leading experts in scientific Python, facilitating the exchange of
+innovative ideas and best practices.
 
-## How to Use This Guide
+### 2. Support the Community
 
-Whether you're a first-time organizer or a seasoned pro, this playbook is designed to help you at every stage. Feel free
-to jump to the sections most relevant to you, or read through from start to finish for a comprehensive overview.
+Our goal is to create an event where everyone, from beginners to seasoned professionals, feels welcome and supported,
+encouraging growth and learning at all levels.
 
-## Let's Get Started!
+### 3. Create an Inclusive Environment
 
-Ready to dive in? Check out our [Getting Started Guide](installation.md) to take your first steps in conference
-organizing.
+We are committed to diversity and strive to make EuroSciPy a safe, inclusive space where individuals from all
+backgrounds can thrive.
 
-## A Big Thank You
+### 4. Pursue Excellence
 
-It is based on the experience of running and co-organizing events like [PyCon DE](https://de.pycon.org/),
-[EuroPython](https://europython.eu), [EuroSciPy](https://euroscipy.org) and [PyData Berlin](https://berlin.pydata.org).
+We maintain high standards in organizing the conference, ensuring a professional and respectful atmosphere for all
+participants.
 
-This playbook wouldn't exist without the hard work and dedication of countless volunteers who've organized conferences
-over the years. Their experiences and insights have been invaluable in creating this resource.
+## Get Involved
 
-❤️ We're grateful to everyone who has contributed to making these events better year after year.
+We need enthusiastic volunteers like you! You don't need to be an expert – just bring your:
 
-## Attribution
+We welcome enthusiastic volunteers who are passionate about scientific Python and eager to contribute to the success of
+EuroSciPy. Whether you’re interested in organizing, presenting, or assisting during the event, your involvement is
+invaluable.
 
-This plyabook draws on years of experience from organizing of running and co-organizing events since like
-[PyCon DE](https://de.pycon.org/)
-and [PyData Berlin](https://berlin.pydata.org), [EuroPython](https://europython.eu), [EuroSciPy](https://euroscipy.org)
+Join us in our mission to advance scientific Python and strengthen the community by participating in EuroSciPy.
+Together, we can create an enriching experience for all attendees.
+Check out the volunteer committees you can join:
 
-These awesome people have contributed to content this documentation was built upon:
+[Check out the Committees](committees/index.md){:target="_blank" .md-button .md-button--secondary }
 
-[Aeneas Christodoulou](https://github.com/AeneasChristodoulou): Video;
-[Alexander CS Hendorf](https://github.com/alanderex): Program, Steering, Office;
-[Alina Lenhardt](https://github.com/alina-lenhardt): Program, Communication;
-[Anastasia](https://github.com/asamokhina): Communication;
-[Anja Pilz](https://github.com/aplz): Program;
-[Christopher Schultz](#): Program;
-[Daniel Ringler](https://github.com/dringler): Infrastructure, Steering;
-[Florian Wilhelm](https://github.com/florianwilhelm): Program;
-[Julio Batista Silva](https://github.com/jbsilva): Diversity;
-[Jurik Sommer](https://github.com/Jurik-001): Program;
-[Kristian Rother](https://github.com/krother): On-Site;
-[Lisa Andreevna Chalaguine](#): Program;
-[Marisa Mohr](https://github.com/marisamohr): Program;
-[Maryam Pourranjbar Mohr](#): Program;
-[Matthias Hofmann](#): Program;
-[Mihail Douhaniaris](https://github.com/mtdo): Video;
-[Mojdeh Rastgoo](https://github.com/mrastgoo): Diversity;
-[Naa Ashiorkor Nortey](https://github.com/7ashiorkor7): Diversity;
-[Nils Finke](https://github.com/FinkeNils): Program;
-[Nydia Medina](https://github.com/nydiamedina): Diversity;
-[Olakunle Olaniyi](https://github.com/rugging24): Communication;
-[Paula González Avalos](https://github.com/pga99): Diversity;
-[Ricardo Kawase](#): Program;
-[Sabine Reisser](https://github.com/orgs/PYCONDE/people/sreisser): Video;
-[Sebastian Neubauer Reisser](https://github.com/sebastianneubauer): Video, Steering;
-[Shivam Singhal](https://github.com/championshuttler): On-Site;
-[Theodore Meynard](https://github.com/orgs/PYCONDE/people/terezaif): Diversity, Swag;
-[Valentina Scipione](https://github.com/astrovale): On-Site;
+## Building on Success
 
+We're not starting from scratch – we're standing on the shoulders of giants! We learn from past conferences and
+constantly improve. As a volunteer, you'll be part of this evolution.
 
-We missed mentioning you?   
-We value all contributions to this project, including those made in the past. If you have contributed to
-community-driven conferences or this playbook in the past and would like to be acknowledged:
+## You Won't Be Alone
 
-1. Open a pull request titled "Add [Your Name] to Contributors".
-2. In the pull request description, briefly describe your contribution. For example:
-    - "I helped organize 2022 in program"
-    - "I contributed the section on volunteer management of this playbook"
+Worried about not knowing what to do? Don't be! Experienced organizers will be there to guide you every step of the way.
+We're all in this together!
 
-We'll review your pull request and merge it if appropriate.
+## Our Guiding Principles
 
+We follow a set of principles we call "Zen for Community Organizers." It helps us stay focused on what really
+matters. [Check it out here](zen.md)
 
-## Who We Are
+## Ready to Join Us?
 
-This playbook is maintained by [Pioneers Hub](https://www.pioneershub.org/en/), an organization dedicated to building
-and nurturing communities of experts in tech and research. Our goal is to facilitate knowledge sharing, collaboration,
-and innovation.
+Got questions? We've got answers! Reach out to us at {{config.extra.event.contact_email}}.
 
-![Pioneers Hub Logo](assets/images/Pioneers-Hub-Logo-vereinfacht-inline.svg){ style="width:50%" }
+Make sure to familiarize yourself with the volunteer committees before you apply:
 
-Together, let's create conferences that inspire, educate, and bring people together!
+[Check out the Committees](committees/index.md){:target="_blank" .md-button .md-button--secondary }
+
+[Apply to Volunteer Here]({{config.extra.event.apply_url_committees}}){:target="_blank" .md-button .md-button--primary }
+
+Join us in creating an unforgettable event that celebrates knowledge, community, and the joy of coming together!

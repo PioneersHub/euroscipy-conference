@@ -10,8 +10,7 @@ repo_url: https://github.com/PioneersHub/euroscipy-conference
 
 #
 nav:
-#  - About: index.md
-  - Mission: mission.md
+  - Mission: index.md
   - Preparation: preparation.md
   - Timeline: timeline.md
   - Committees:
@@ -62,6 +61,7 @@ nav:
   - Help: help.md
   - installation.md
   - License: license.md
+  - About: mission.md
 
 theme:
   name: material
